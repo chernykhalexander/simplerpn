@@ -1,4 +1,4 @@
-#Simple expression parser/calculator
+# Simple expression parser/calculator
 
 Can execute arithmetic expressions.
 
